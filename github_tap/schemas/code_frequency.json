@@ -1,0 +1,92 @@
+{
+  "type": ["null", "object"],
+  "additionalProperties": false,
+  "properties": {
+    "github_contributors_id": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "additions": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "author": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "batch": {
+            "type": [
+              "null",
+              "sting"
+            ]
+          },
+          "batch_date": {
+            "type": [
+              "null",
+              "string"
+            ],
+             "format": "date-time"
+          },
+          "commits": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "null",
+              "string"
+            ],
+             "format": "date-time"
+          },
+          "deletions": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "node_id": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+          "login": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+          "id": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+          "project_name": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+          "total": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                },
+          "weeks": {
+                  "type": [
+                    "null",
+                    "string"
+                  ]
+                }
+  }
+}
